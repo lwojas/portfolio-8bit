@@ -1,0 +1,24 @@
+
+
+body {
+	margin: 0;
+	background-color: black;
+	font-family: 'Press Start 2P', monospace;
+	/*font-family: 'Press Start 2P', cursive;
+	font-family: 'Iceland', cursive;
+	font-family: 'Sarpanch', sans-serif;*/
+}
+
+canvas {
+	
+	left: 0;
+	top : 0;
+	/* width: 160px !important;
+	height: auto !important; */
+}
+
+h1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	position: relative;
+	color: white;
+}
